@@ -1,0 +1,15 @@
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\bin\Debug\net7.0\StudyFromTheBegeeningConsoleApp.exe
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\bin\Debug\net7.0\StudyFromTheBegeeningConsoleApp.deps.json
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\bin\Debug\net7.0\StudyFromTheBegeeningConsoleApp.runtimeconfig.json
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\bin\Debug\net7.0\StudyFromTheBegeeningConsoleApp.dll
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\bin\Debug\net7.0\StudyFromTheBegeeningConsoleApp.pdb
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.csproj.AssemblyReference.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.AssemblyInfoInputs.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.AssemblyInfo.cs
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.csproj.CoreCompileInputs.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.dll
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\refint\StudyFromTheBegeeningConsoleApp.dll
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.pdb
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\StudyFromTheBegeeningConsoleApp.genruntimeconfig.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\StudyFromTheBegeeningConsoleApp\obj\Debug\net7.0\ref\StudyFromTheBegeeningConsoleApp.dll

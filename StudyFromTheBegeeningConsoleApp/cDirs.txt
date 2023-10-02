@@ -1,0 +1,16 @@
+$RECYCLE.BIN
+$WinREAgent
+Documents and Settings
+inetpub
+MAMP
+OSPanel
+Program Files
+Program Files (x86)
+ProgramData
+Python311
+Recovery
+SQL2022
+System Volume Information
+tmp
+Users
+Windows

@@ -1,0 +1,15 @@
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\bin\Debug\net7.0\Anon_Methods.exe
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\bin\Debug\net7.0\Anon_Methods.deps.json
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\bin\Debug\net7.0\Anon_Methods.runtimeconfig.json
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\bin\Debug\net7.0\Anon_Methods.dll
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\bin\Debug\net7.0\Anon_Methods.pdb
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.csproj.AssemblyReference.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.AssemblyInfoInputs.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.AssemblyInfo.cs
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.csproj.CoreCompileInputs.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.dll
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\refint\Anon_Methods.dll
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.pdb
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\Anon_Methods.genruntimeconfig.cache
+D:\work\C#\StudyFromTheBegeeningConsoleApp\Anon_Methods\obj\Debug\net7.0\ref\Anon_Methods.dll
